@@ -1,0 +1,5 @@
+# Common physical intensity scale for the D_IO notebooks.
+# Current displayed maximum is 216.7202709622377 W/um^2.
+beam_intensity_min_W_per_um2 = 0.0
+beam_intensity_max_W_per_um2 = 250.0
+colormap = "magma"
